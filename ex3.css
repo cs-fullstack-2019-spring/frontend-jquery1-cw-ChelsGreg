@@ -1,0 +1,12 @@
+
+td{
+    padding: 20px;
+    border: 1px solid black;
+}
+
+
+/*background for rows*/
+
+.greyB{
+    background: grey;
+}
