@@ -1,3 +1,6 @@
+### Points: 2
+### KEY: In exercise 2 should have used interval to repeatedly show/hide image, but impressed enough with your solutions and comments that you get the 2.
+
 # Introduction to jQuery Graded Classwork
 
 ## Use only jQuery to select elements, and jQuery 
